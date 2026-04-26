@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Employee 1",
+        "department": "Marketing",
+        "salary": 87337,
+        "hire_date": "2023-02-24"
+    },
+    {
+        "id": 2,
+        "name": "Employee 2",
+        "department": "Finance",
+        "salary": 75565,
+        "hire_date": "2023-01-02"
+    },
+    {
+        "id": 3,
+        "name": "Employee 3",
+        "department": "Engineering",
+        "salary": 106000,
+        "hire_date": "2023-03-01"
+    },
+    {
+        "id": 4,
+        "name": "Employee 4",
+        "department": "Finance",
+        "salary": 98188,
+        "hire_date": "2023-03-10"
+    },
+    {
+        "id": 5,
+        "name": "Employee 5",
+        "department": "Marketing",
+        "salary": 95343,
+        "hire_date": "2023-02-15"
+    },
+    {
+        "id": 6,
+        "name": "Employee 6",
+        "department": "Finance",
+        "salary": 90113,
+        "hire_date": "2023-02-20"
+    },
+    {
+        "id": 7,
+        "name": "Employee 7",
+        "department": "Engineering",
+        "salary": 87105,
+        "hire_date": "2023-03-14"
+    },
+    {
+        "id": 8,
+        "name": "Employee 8",
+        "department": "Marketing",
+        "salary": 80039,
+        "hire_date": "2023-01-23"
+    },
+    {
+        "id": 9,
+        "name": "Employee 9",
+        "department": "HR",
+        "salary": 81765,
+        "hire_date": "2023-01-03"
+    },
+    {
+        "id": 10,
+        "name": "Employee 10",
+        "department": "HR",
+        "salary": 87797,
+        "hire_date": "2023-02-17"
+    },
+    {
+        "id": 11,
+        "name": "Employee 11",
+        "department": "Finance",
+        "salary": 109353,
+        "hire_date": "2023-02-06"
+    },
+    {
+        "id": 12,
+        "name": "Employee 12",
+        "department": "Marketing",
+        "salary": 86574,
+        "hire_date": "2023-03-15"
+    },
+    {
+        "id": 13,
+        "name": "Employee 13",
+        "department": "Marketing",
+        "salary": 97367,
+        "hire_date": "2023-03-10"
+    },
+    {
+        "id": 14,
+        "name": "Employee 14",
+        "department": "Finance",
+        "salary": 75547,
+        "hire_date": "2023-02-08"
+    },
+    {
+        "id": 15,
+        "name": "Employee 15",
+        "department": "HR",
+        "salary": 82958,
+        "hire_date": "2023-02-12"
+    },
+    {
+        "id": 16,
+        "name": "Employee 16",
+        "department": "Marketing",
+        "salary": 86676,
+        "hire_date": "2023-03-26"
+    },
+    {
+        "id": 17,
+        "name": "Employee 17",
+        "department": "Marketing",
+        "salary": 57644,
+        "hire_date": "2023-02-27"
+    },
+    {
+        "id": 18,
+        "name": "Employee 18",
+        "department": "Finance",
+        "salary": 107278,
+        "hire_date": "2023-03-06"
+    },
+    {
+        "id": 19,
+        "name": "Employee 19",
+        "department": "Finance",
+        "salary": 96877,
+        "hire_date": "2023-03-02"
+    },
+    {
+        "id": 20,
+        "name": "Employee 20",
+        "department": "Sales",
+        "salary": 77701,
+        "hire_date": "2023-01-01"
+    }
+]

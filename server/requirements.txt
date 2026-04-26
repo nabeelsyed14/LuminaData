@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+ollama
+google-generativeai
+python-multipart
+pydantic
+python-dotenv
+sqlalchemy
+python-jose[cryptography]
+bcrypt
+matplotlib
+seaborn
