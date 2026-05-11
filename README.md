@@ -92,6 +92,7 @@ python run.py
 Starts FastAPI on port 8000 and Vite on port 5173.
 
 ## Project Structure
+```
 lumina-data/
 ├── run.py                 # Concurrent launcher for backend + frontend
 ├── server/
@@ -108,7 +109,7 @@ lumina-data/
 │   │   └── store.js       # Zustand state management
 │   └── package.json
 └── data/                  # Sample datasets for testing
-
+```
 ## Technical Challenges & Solutions
 
 **Sandboxed execution security:** AI-generated Python can contain malicious operations — file I/O, network calls, infinite loops. Stripping dangerous imports is necessary but not sufficient. The solution combines import sanitization, a restricted execution namespace with no access to system modules, and timeout enforcement. Defense in depth rather than a single filter.
